@@ -1,2 +1,3 @@
-# flask-jobs
- Job scrapper built with Python Flask
+# Flask jobs
+
+Job scrapper built with Python Flask
